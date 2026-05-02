@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="VISURA Logo" width="120" />
+  <img src="assets/logo_rounded.png" alt="VISURA Logo" width="120" />
 </p>
 
 <h1 align="center">VISURA</h1>
