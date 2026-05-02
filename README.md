@@ -215,7 +215,3 @@ git push origin feature/your-feature-name
 MIT © [bwhite261](https://github.com/bwhite261)
 
 ---
-
-<p align="center">
-  Built with care for developers who deserve better tools.
-</p>
